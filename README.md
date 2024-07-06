@@ -19,4 +19,4 @@
 
 ### Onde me encontrar:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andreribeiro-dev/))
-- 🔗 [GitHub](https://github.com/andreribeiro-dev)
+
