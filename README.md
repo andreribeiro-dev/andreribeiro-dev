@@ -18,5 +18,5 @@
 - 📧 Email: [andreribeiro.dev@gmail.com](mailto:andreribeiro.dev@gmail.com) - Vamos bater um papo!
 
 ### Onde me encontrar:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/andreribeiro-dev/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andreribeiro-dev/)
 
