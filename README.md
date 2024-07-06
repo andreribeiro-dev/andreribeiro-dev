@@ -1,4 +1,4 @@
-👋 Olá! Meu nome é André Ribeiro.
+👋 Olá! Meu nome é André Ribeiro, seja bem-vindo(a) ao meu repositório.
 
 👀 Sou um Programador e Desenvolvedor Frontend, construindo experiências incríveis para web.
 
